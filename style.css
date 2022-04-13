@@ -1,5 +1,6 @@
 .header{
 background-color: black;
+width: 100%;
 }
 .navigation{
 color: aliceblue;
@@ -8,8 +9,9 @@ color: aliceblue;
 .navigation li{
 padding: auto;
 text-decoration: none;
-display: inline;
 
+margin-left: 110px;
+display: inline;
 }
 .navigation ul li #title{
 
