@@ -1,0 +1,25 @@
+.header{
+background-color: black;
+width: 100%;
+}
+.navigation{
+color: aliceblue;
+
+}
+.navigation li{
+padding: auto;
+text-decoration: none;
+
+margin-left: 110px;
+display: inline;
+}
+.navigation ul li #title{
+
+font-family: 'Times New Roman', Times, serif;
+color: aliceblue;
+text-decoration: none;
+}
+.navigation li a{
+color: aliceblue;
+text-decoration: none;
+}
